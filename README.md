@@ -1,0 +1,1 @@
+# rust-minimal-microservice-template
